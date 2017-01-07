@@ -4,7 +4,7 @@
 //
 
 KEY_CODES = {
-  13: 'enter',
+  13: 'enter', 
   32: 'space',
   37: 'left',
   39: 'right',
